@@ -184,3 +184,4 @@
 ### **OTHER**
 - https://github.com/poldrack/fmri-analysis-vm/blob/master/analysis/introduction/Introduction%20to%20notebooks%2C%20plotting%2C%20nilearn%2C%20nibabel%20and%20nipype.ipynb : JK: intro to jupyter and other topics
 - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook : JK: jupyter notebook background
+- https://www.pathlms.com/ohbm/courses/5158/sections/7756 : JK: OHBM fmri course
